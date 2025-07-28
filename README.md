@@ -134,9 +134,9 @@ python get.py
 
 ## 🎉 致谢
 
-感谢以下开源项目：
-- [Selenium](https://selenium-python.readthedocs.io/) - 浏览器自动化
-- [python-docx](https://python-docx.readthedocs.io/) - Word文档操作
+人生目标管理系统：
+
+https://nfctodo.com/
 
  ## 💼 承接飞书开发项目
 
