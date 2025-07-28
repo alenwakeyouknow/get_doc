@@ -1,12 +1,12 @@
 # 🚀 WebDoc Saver | 网页文档智能保存器
 
-[English](README_en.md) | [日本語](README_ja.md) | **简体中文**
-
 > **突破反爬限制，一键保存任意网页为Word文档**
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](https://opensource.org/licenses/GPL-3.0)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Selenium](https://img.shields.io/badge/selenium-4.0+-green.svg)](https://selenium-python.readthedocs.io/)
+
+[English](README_en.md) | [日本語](README_ja.md) | **简体中文**
 
 ## ✨ 核心优势
 
